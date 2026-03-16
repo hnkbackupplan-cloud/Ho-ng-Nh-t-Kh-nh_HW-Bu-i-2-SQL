@@ -1,0 +1,8 @@
+| Ten bang | Bang nay luu tru du lieu ve cai gi? | Moi mot ban ghi dai dien cho cai gi? |
+|----------|-------------------------------------|--------------------------------------|
+| DimAccount | Luu tru thong tin tai khoan | Moi dong la mot tai khoan |
+| DimCurrency | Luu tru thong tin cac loai tien te | Moi dong la mot loai tien te |
+| DimCustomer | Luu tru thong tin khach hang | Moi dong la mot khach hang |
+| DimDate | Luu tru thong tin ngay thang | Moi dong la mot ngay |
+| DimDepartmentGroup | Luu tru thong tin nhom phong ban | Moi dong la mot nhom phong ban |
+| DimEmployee | Luu tru thong tin nhan vien | Moi dong la mot nhan vien |
